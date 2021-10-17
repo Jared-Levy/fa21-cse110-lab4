@@ -71,3 +71,10 @@
 15. == allows type conversion on both sides while === doesn't 
 
 16. In file 'part2-question16.js'
+
+17. I noticed that the for loop in modifyArray is what is populating the return result array. Each element 
+    in it is the returned value from the callback method applied to the corresponding element to the passed in
+    array. Then, looking at the callback method we see that all it does is double the number, so the
+    resulting returned result array is [ 2, 4, 6 ]
+    
+18. In file 'part2-question.js'
