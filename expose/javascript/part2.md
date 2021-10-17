@@ -77,4 +77,4 @@
     array. Then, looking at the callback method we see that all it does is double the number, so the
     resulting returned result array is [ 2, 4, 6 ]
     
-18. In file 'part2-question.js'
+18. In file 'part2-question18.js'
