@@ -78,3 +78,8 @@
     resulting returned result array is [ 2, 4, 6 ]
     
 18. In file 'part2-question18.js'
+
+19. 1
+    4
+    3
+    2
